@@ -3,9 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29001.49
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebTrial", "WebTrial\WebTrial.csproj", "{AB9C429C-DE1B-49A0-8A4C-C99EF5D7B72E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebTrial", "WebTrial\WebTrial.csproj", "{AB9C429C-DE1B-49A0-8A4C-C99EF5D7B72E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebTrial.Models", "WebTrial.Models\WebTrial.Models.csproj", "{73397894-22F1-48D0-8D41-EE344BD33CA5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebTrial.Models", "WebTrial.Models\WebTrial.Models.csproj", "{73397894-22F1-48D0-8D41-EE344BD33CA5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "unwanted file", "unwanted file", "{22F140EC-03B5-45C9-9498-655F674262BA}"
+	ProjectSection(SolutionItems) = preProject
+		WebTrial\Controllers\UserController.cs = WebTrial\Controllers\UserController.cs
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

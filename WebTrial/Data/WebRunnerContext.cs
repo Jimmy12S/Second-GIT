@@ -19,5 +19,7 @@ namespace WebTrial.Data
         {
             this.Database.EnsureCreated();
         }
+
+        public DbSet<WebTrial.Models.Event> Event { get; set; }
     }
 }
