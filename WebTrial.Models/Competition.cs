@@ -4,7 +4,7 @@ using System.Text;
 
 namespace WebTrial.Models
 {
-    class Competition : BaseEntity
+    public class Competition : BaseEntity
     {
         public string CompetitionType { get; set; }
         public string LocationName { get; set; }

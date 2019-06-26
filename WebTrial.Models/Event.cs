@@ -4,7 +4,7 @@ using System.Text;
 
 namespace WebTrial.Models
 {
-    class Event : BaseEntity
+    public class Event : BaseEntity
     {
         public string EventName { get; set; }
         public string SchoolID { get; set; }
