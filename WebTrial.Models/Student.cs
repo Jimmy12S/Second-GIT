@@ -4,12 +4,11 @@ using System.Text;
 
 namespace WebTrial.Models
 {
-    class Student
+    class Student : BaseEntity
     {
-        public int ID { get; set; }
-        public int FirstName { get; set; }
-        public int LastName { get; set; }
-        public int DoB { get; set; }  
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public string DoB { get; set; }  
 }
 
     

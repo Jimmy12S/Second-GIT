@@ -4,10 +4,10 @@ using System.Text;
 
 namespace WebTrial.Models
 {
-    class Event
+    class Event : BaseEntity
     {
-        public int ID { get; set; }
-        public int EventName { get; set; }
-        public int SchoolID { get; set; }
+        public string EventName { get; set; }
+        public string SchoolID { get; set; }
+        public string Place { get; set; }
     }
 }

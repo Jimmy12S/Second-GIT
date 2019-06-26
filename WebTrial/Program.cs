@@ -7,6 +7,7 @@ using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
+//using WebTrial.Models;
 
 namespace WebTrial
 {
@@ -15,7 +16,9 @@ namespace WebTrial
         public static void Main(string[] args)
         {
             CreateWebHostBuilder(args).Build().Run();
-            Student test = new Student();
+            //Student test = new Student();
+            //User user = new User(5, "firstname", "lastname", "jobrole");
+            //user.GetUserDetail();
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>

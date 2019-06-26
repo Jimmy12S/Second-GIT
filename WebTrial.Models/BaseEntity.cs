@@ -4,9 +4,8 @@ using System.Text;
 
 namespace WebTrial.Models
 {
-    class Event_Type
+    public abstract class BaseEntity
     {
-        public int ID { get; set; }
-        public int Description { get; set; }
+        public string Id { get; set; }
     }
 }
