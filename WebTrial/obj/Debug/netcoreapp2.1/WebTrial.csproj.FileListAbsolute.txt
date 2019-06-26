@@ -32,4 +32,8 @@ C:\Users\JimmyKinteh\source\repos\WebTrial\WebTrial\obj\Debug\netcoreapp2.1\WebT
 C:\Users\JimmyKinteh\source\repos\WebTrial\WebTrial\obj\Debug\netcoreapp2.1\WebTrial.csproj.CopyComplete
 C:\Users\JimmyKinteh\source\repos\WebTrial\WebTrial\obj\Debug\netcoreapp2.1\WebTrial.dll
 C:\Users\JimmyKinteh\source\repos\WebTrial\WebTrial\obj\Debug\netcoreapp2.1\WebTrial.pdb
-C:\Users\JimmyKinteh\source\repos\WebTrial\WebTrial\obj\Debug\netcoreapp2.1\Razor\Views\User\index.g.cshtml.cs
+C:\Users\JimmyKinteh\source\repos\WebTrial\WebTrial\obj\Debug\netcoreapp2.1\Razor\Views\Schools\Create.g.cshtml.cs
+C:\Users\JimmyKinteh\source\repos\WebTrial\WebTrial\obj\Debug\netcoreapp2.1\Razor\Views\Schools\Delete.g.cshtml.cs
+C:\Users\JimmyKinteh\source\repos\WebTrial\WebTrial\obj\Debug\netcoreapp2.1\Razor\Views\Schools\Details.g.cshtml.cs
+C:\Users\JimmyKinteh\source\repos\WebTrial\WebTrial\obj\Debug\netcoreapp2.1\Razor\Views\Schools\Edit.g.cshtml.cs
+C:\Users\JimmyKinteh\source\repos\WebTrial\WebTrial\obj\Debug\netcoreapp2.1\Razor\Views\Schools\Index.g.cshtml.cs

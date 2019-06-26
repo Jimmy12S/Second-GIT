@@ -15,5 +15,9 @@ namespace WebTrial.Data
         public DbSet<School> Schools { get; set; }
         public DbSet<Student> Students { get; set; }
 
+        public WebRunnerContext(DbContextOptions<WebRunnerContext> options) : base(options)
+        {
+            this.Database.EnsureCreated();
+        }
     }
 }
