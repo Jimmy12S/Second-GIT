@@ -7,12 +7,13 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using WebTrial.Data;
 using WebTrial.Models;
+using WebTrial1.Data;
 
 namespace WebTrial.Controllers
 {
     public class CompetitionsController : Controller
     {
-        private readonly WebRunnerContext _context;
+        private readonly WebTrial1.Data.WebRunnerContext _context;
 
         public CompetitionsController(WebRunnerContext context)
         {

@@ -8,13 +8,13 @@ using Microsoft.EntityFrameworkCore;
 using WebTrial.Data;
 using WebTrial.Models;
 
-namespace WebTrial.Controllers
+namespace WebTrial1.Controllers
 {
     public class EventsController : Controller
     {
-        private readonly WebRunnerContext _context;
+        private readonly WebTrial1.Data.WebRunnerContext _context;
 
-        public EventsController(WebRunnerContext context)
+        public EventsController(WebTrial1.Data.WebRunnerContext context)
         {
             _context = context;
         }

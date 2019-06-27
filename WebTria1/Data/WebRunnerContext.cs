@@ -1,11 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using WebTrial.Models;
 
-namespace WebTrial.Data
+namespace WebTrial1.Data
 {
     public class WebRunnerContext : DbContext
     {

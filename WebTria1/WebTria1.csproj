@@ -11,6 +11,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\WebTrial1.Model\WebTrial1.Model.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Content Update="Views\Competitions\Create.cshtml">
       <Pack>$(IncludeRazorContentInPack)</Pack>
     </Content>
