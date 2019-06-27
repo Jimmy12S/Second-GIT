@@ -22,7 +22,8 @@ namespace WebTrial.Controllers
         // GET: Users
         public async Task<IActionResult> Index()
         {
-            return View(await _context.User.ToListAsync());
+            var users = await _context.User.ToListAsync();
+            return View(users);
         }
 
         // GET: Users/Details/5
