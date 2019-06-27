@@ -57,3 +57,8 @@ C:\Users\JimmyKinteh\source\repos\WebTrial\WebTrial\obj\Debug\netcoreapp2.1\Razo
 C:\Users\JimmyKinteh\source\repos\WebTrial\WebTrial\obj\Debug\netcoreapp2.1\Razor\Views\Events\Details.g.cshtml.cs
 C:\Users\JimmyKinteh\source\repos\WebTrial\WebTrial\obj\Debug\netcoreapp2.1\Razor\Views\Events\Edit.g.cshtml.cs
 C:\Users\JimmyKinteh\source\repos\WebTrial\WebTrial\obj\Debug\netcoreapp2.1\Razor\Views\Events\Index.g.cshtml.cs
+C:\Users\JimmyKinteh\source\repos\WebTrial\WebTrial\obj\Debug\netcoreapp2.1\Razor\Views\Competitions\Create.g.cshtml.cs
+C:\Users\JimmyKinteh\source\repos\WebTrial\WebTrial\obj\Debug\netcoreapp2.1\Razor\Views\Competitions\Delete.g.cshtml.cs
+C:\Users\JimmyKinteh\source\repos\WebTrial\WebTrial\obj\Debug\netcoreapp2.1\Razor\Views\Competitions\Details.g.cshtml.cs
+C:\Users\JimmyKinteh\source\repos\WebTrial\WebTrial\obj\Debug\netcoreapp2.1\Razor\Views\Competitions\Edit.g.cshtml.cs
+C:\Users\JimmyKinteh\source\repos\WebTrial\WebTrial\obj\Debug\netcoreapp2.1\Razor\Views\Competitions\Index.g.cshtml.cs

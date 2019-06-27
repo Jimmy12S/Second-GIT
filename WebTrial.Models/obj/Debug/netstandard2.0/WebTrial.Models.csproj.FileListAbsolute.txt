@@ -1,9 +1,11 @@
 C:\Users\JimmyKinteh\source\repos\WebTrial\WebTrial.Models\bin\Debug\netstandard2.0\WebTrial.Models.deps.json
 C:\Users\JimmyKinteh\source\repos\WebTrial\WebTrial.Models\bin\Debug\netstandard2.0\WebTrial.Models.dll
 C:\Users\JimmyKinteh\source\repos\WebTrial\WebTrial.Models\bin\Debug\netstandard2.0\WebTrial.Models.pdb
-C:\Users\JimmyKinteh\source\repos\WebTrial\WebTrial.Models\obj\Debug\netstandard2.0\WebTrial.Models.csprojAssemblyReference.cache
 C:\Users\JimmyKinteh\source\repos\WebTrial\WebTrial.Models\obj\Debug\netstandard2.0\WebTrial.Models.csproj.CoreCompileInputs.cache
 C:\Users\JimmyKinteh\source\repos\WebTrial\WebTrial.Models\obj\Debug\netstandard2.0\WebTrial.Models.AssemblyInfoInputs.cache
 C:\Users\JimmyKinteh\source\repos\WebTrial\WebTrial.Models\obj\Debug\netstandard2.0\WebTrial.Models.AssemblyInfo.cs
 C:\Users\JimmyKinteh\source\repos\WebTrial\WebTrial.Models\obj\Debug\netstandard2.0\WebTrial.Models.dll
 C:\Users\JimmyKinteh\source\repos\WebTrial\WebTrial.Models\obj\Debug\netstandard2.0\WebTrial.Models.pdb
+C:\Users\JimmyKinteh\source\repos\WebTrial\WebTrial.Models\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Users\JimmyKinteh\source\repos\WebTrial\WebTrial.Models\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+C:\Users\JimmyKinteh\source\repos\WebTrial\WebTrial.Models\obj\Debug\netstandard2.0\WebTrial.Models.csproj.CopyComplete
